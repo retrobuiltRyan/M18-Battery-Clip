@@ -9,3 +9,13 @@ https://youtu.be/0cRHDACAL8A
 
 ![PXL_20240602_160720972](https://github.com/retrobuiltRyan/M18-Battery-Clip/assets/68818321/6025d30a-ac22-4ad4-924d-d262abf3baa9)
 ![mechanica dwg](https://github.com/retrobuiltRyan/M18-Battery-Clip/assets/68818321/99175aea-1598-43ab-8964-e3424749f746)
+
+
+# M18-Battery-Clip-Protocol-Project
+
+Two additional remixed files to be used wiht the M18-protocol project. 
+
+M18 Battery Spade Cover 4 Pin
+M18 Battery Spade Clip 4 Pin
+
+https://github.com/mnh-jansson/m18-protocol
